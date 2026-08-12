@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-08-12T06:13:52.540Z",
+  "updatedAt": "2026-08-12T06:52:49.644Z",
   "problems": [
     {
       "frontendId": "459",
@@ -22,7 +22,7 @@
           "filename": "0459-repeated-substring-pattern.java",
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.java",
           "sha": "ba9a76c01fb2ff812b2151fe97f5c07bbadbc052",
-          "lastSyncedAt": "2026-08-12T06:13:52.540Z"
+          "lastSyncedAt": "2026-08-12T06:52:49.644Z"
         }
       ]
     }
