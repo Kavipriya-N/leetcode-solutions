@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T06:14:44.915Z",
+  "updatedAt": "2026-08-12T06:14:51.040Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +83,26 @@
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.java",
           "sha": "ba9a76c01fb2ff812b2151fe97f5c07bbadbc052",
           "lastSyncedAt": "2026-08-12T06:13:52.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1859",
+      "title": "Sorting the Sentence",
+      "slug": "sorting-the-sentence",
+      "problemName": "1859-sorting-the-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sorting-the-sentence/",
+      "folderPath": "1859-sorting-the-sentence/",
+      "readmePath": "1859-sorting-the-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1859-sorting-the-sentence.java",
+          "path": "1859-sorting-the-sentence/1859-sorting-the-sentence.java",
+          "sha": "698b642a5cb009e5b8b606a7178e55c838ba7764",
+          "lastSyncedAt": "2026-08-12T06:14:51.040Z"
         }
       ]
     },
