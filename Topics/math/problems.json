@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T06:54:01.959Z",
+  "updatedAt": "2026-08-12T06:54:11.498Z",
   "problems": [
+    {
+      "frontendId": "1154",
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "problemName": "1154-day-of-the-year",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/day-of-the-year/",
+      "folderPath": "1154-day-of-the-year/",
+      "readmePath": "1154-day-of-the-year/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1154-day-of-the-year.java",
+          "path": "1154-day-of-the-year/1154-day-of-the-year.java",
+          "sha": "73954034c720c7c1c086cdd0ab59fda989f74e25",
+          "lastSyncedAt": "2026-08-12T06:54:11.498Z"
+        }
+      ]
+    },
     {
       "frontendId": "1232",
       "title": "Check If It Is a Straight Line",
