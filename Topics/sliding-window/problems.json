@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-12T06:14:33.974Z",
+  "updatedAt": "2026-08-12T06:53:08.581Z",
   "problems": [
     {
       "frontendId": "3",
@@ -22,7 +22,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.java",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "3fe7f442a615811eb8b71d3dc70f89d1c325914d",
-          "lastSyncedAt": "2026-08-12T06:14:33.974Z"
+          "lastSyncedAt": "2026-08-12T06:53:08.581Z"
         }
       ]
     }
