@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T06:15:10.575Z",
+  "updatedAt": "2026-08-12T06:15:28.418Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "3fe7f442a615811eb8b71d3dc70f89d1c325914d",
           "lastSyncedAt": "2026-08-12T06:14:33.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0041-first-missing-positive.java",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.java",
+          "sha": "3a6420a01e5c384da34d4ff9b8c6a9989bd11687",
+          "lastSyncedAt": "2026-08-12T06:15:28.418Z"
         }
       ]
     },
