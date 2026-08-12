@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T06:15:10.575Z",
+  "updatedAt": "2026-08-12T06:15:28.418Z",
   "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0041-first-missing-positive.java",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.java",
+          "sha": "3a6420a01e5c384da34d4ff9b8c6a9989bd11687",
+          "lastSyncedAt": "2026-08-12T06:15:28.418Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
