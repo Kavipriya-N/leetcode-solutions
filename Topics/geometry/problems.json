@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-08-12T07:03:14.328Z",
+  "updatedAt": "2026-08-12T07:06:46.377Z",
   "problems": [
     {
       "frontendId": "1232",
@@ -22,7 +22,7 @@
           "filename": "1232-check-if-it-is-a-straight-line.java",
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
           "sha": "ab5830ce2d85d80e746eaa59b80cf6c5ef519d2f",
-          "lastSyncedAt": "2026-08-12T07:03:14.328Z"
+          "lastSyncedAt": "2026-08-12T07:06:46.377Z"
         }
       ]
     }
