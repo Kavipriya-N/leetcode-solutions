@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T08:35:53.256Z",
+  "updatedAt": "2026-08-12T08:38:48.016Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "0205-isomorphic-strings.java",
           "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
           "sha": "13ac90dd9295f10d084c2c7cb93571bac7dc370d",
-          "lastSyncedAt": "2026-08-12T08:35:12.568Z"
+          "lastSyncedAt": "2026-08-12T08:38:48.016Z"
         }
       ]
     },
