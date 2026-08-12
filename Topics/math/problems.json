@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T08:39:54.580Z",
+  "updatedAt": "2026-08-12T08:40:01.030Z",
   "problems": [
     {
       "frontendId": "50",
@@ -42,7 +42,7 @@
           "filename": "0326-power-of-three.java",
           "path": "0326-power-of-three/0326-power-of-three.java",
           "sha": "ddffad7d36ac048c26aa840204d1a0379b936185",
-          "lastSyncedAt": "2026-08-12T08:36:24.898Z"
+          "lastSyncedAt": "2026-08-12T08:40:01.030Z"
         }
       ]
     },
