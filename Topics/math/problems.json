@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T08:33:54.980Z",
+  "updatedAt": "2026-08-12T08:36:11.750Z",
   "problems": [
     {
       "frontendId": "50",
@@ -82,7 +82,7 @@
           "filename": "1232-check-if-it-is-a-straight-line.java",
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
           "sha": "ab5830ce2d85d80e746eaa59b80cf6c5ef519d2f",
-          "lastSyncedAt": "2026-08-12T08:33:31.402Z"
+          "lastSyncedAt": "2026-08-12T08:36:11.750Z"
         }
       ]
     }
