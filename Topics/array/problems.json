@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T06:14:22.669Z",
+  "updatedAt": "2026-08-12T06:15:02.774Z",
   "problems": [
     {
       "frontendId": "215",
@@ -63,6 +63,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "49de773fc639c9a9813efe92172a96abee4c5201",
           "lastSyncedAt": "2026-08-12T06:13:40.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "2942-find-words-containing-character/",
+      "readmePath": "2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2942-find-words-containing-character.java",
+          "path": "2942-find-words-containing-character/2942-find-words-containing-character.java",
+          "sha": "c7a5aa5ff7a9ab61a6aaa7feb9907aea4868718a",
+          "lastSyncedAt": "2026-08-12T06:15:02.774Z"
         }
       ]
     }
