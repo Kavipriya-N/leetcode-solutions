@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T07:10:58.818Z",
+  "updatedAt": "2026-08-12T07:11:16.791Z",
   "problems": [
     {
       "frontendId": "3",
@@ -102,7 +102,7 @@
           "filename": "0459-repeated-substring-pattern.java",
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.java",
           "sha": "ba9a76c01fb2ff812b2151fe97f5c07bbadbc052",
-          "lastSyncedAt": "2026-08-12T07:08:14.018Z"
+          "lastSyncedAt": "2026-08-12T07:11:16.791Z"
         }
       ]
     },
