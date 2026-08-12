@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T06:14:33.974Z",
+  "updatedAt": "2026-08-12T06:14:44.915Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +83,26 @@
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.java",
           "sha": "ba9a76c01fb2ff812b2151fe97f5c07bbadbc052",
           "lastSyncedAt": "2026-08-12T06:13:52.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2609",
+      "title": "Find the Longest Balanced Substring of a Binary String",
+      "slug": "find-the-longest-balanced-substring-of-a-binary-string",
+      "problemName": "2609-find-the-longest-balanced-substring-of-a-binary-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/",
+      "folderPath": "2609-find-the-longest-balanced-substring-of-a-binary-string/",
+      "readmePath": "2609-find-the-longest-balanced-substring-of-a-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2609-find-the-longest-balanced-substring-of-a-binary-string.java",
+          "path": "2609-find-the-longest-balanced-substring-of-a-binary-string/2609-find-the-longest-balanced-substring-of-a-binary-string.java",
+          "sha": "4366f71758c3ba85fc35ef031a26bd38931160de",
+          "lastSyncedAt": "2026-08-12T06:14:44.915Z"
         }
       ]
     }
