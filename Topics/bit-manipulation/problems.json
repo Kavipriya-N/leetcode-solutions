@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-12T06:53:44.581Z",
+  "updatedAt": "2026-08-12T07:02:29.346Z",
   "problems": [
     {
       "frontendId": "287",
@@ -22,7 +22,7 @@
           "filename": "0287-find-the-duplicate-number.java",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "01559f12fa0ebb79e68546d980ef0ccf95e27067",
-          "lastSyncedAt": "2026-08-12T06:53:44.581Z"
+          "lastSyncedAt": "2026-08-12T07:02:29.346Z"
         }
       ]
     }
