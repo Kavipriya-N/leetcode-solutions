@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T06:15:59.225Z",
+  "updatedAt": "2026-08-12T06:52:23.468Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "2e597e608c726489ac3e61b9c816e1fc39d45f06",
+          "lastSyncedAt": "2026-08-12T06:52:23.468Z"
+        }
+      ]
+    },
     {
       "frontendId": "41",
       "title": "First Missing Positive",
