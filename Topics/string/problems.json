@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T06:53:08.581Z",
+  "updatedAt": "2026-08-12T06:53:15.401Z",
   "problems": [
     {
       "frontendId": "3",
@@ -142,7 +142,7 @@
           "filename": "2609-find-the-longest-balanced-substring-of-a-binary-string.java",
           "path": "2609-find-the-longest-balanced-substring-of-a-binary-string/2609-find-the-longest-balanced-substring-of-a-binary-string.java",
           "sha": "4366f71758c3ba85fc35ef031a26bd38931160de",
-          "lastSyncedAt": "2026-08-12T06:14:44.915Z"
+          "lastSyncedAt": "2026-08-12T06:53:15.401Z"
         }
       ]
     },
