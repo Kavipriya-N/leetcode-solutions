@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T08:45:44.535Z",
+  "updatedAt": "2026-08-12T08:46:06.195Z",
   "problems": [
     {
       "frontendId": "26",
@@ -102,7 +102,7 @@
           "filename": "0238-product-of-array-except-self.java",
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
           "sha": "71e9692b7a1df0094d6c1ee4c64a9fa890d8ba35",
-          "lastSyncedAt": "2026-08-12T08:38:53.910Z"
+          "lastSyncedAt": "2026-08-12T08:46:06.195Z"
         }
       ]
     },
