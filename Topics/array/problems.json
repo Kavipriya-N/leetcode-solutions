@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T07:01:43.169Z",
+  "updatedAt": "2026-08-12T07:01:47.992Z",
   "problems": [
     {
       "frontendId": "26",
@@ -182,7 +182,7 @@
           "filename": "2744-find-maximum-number-of-string-pairs.java",
           "path": "2744-find-maximum-number-of-string-pairs/2744-find-maximum-number-of-string-pairs.java",
           "sha": "ff4507cdd787b2938023c8c2f1291df5e9416616",
-          "lastSyncedAt": "2026-08-12T06:53:28.499Z"
+          "lastSyncedAt": "2026-08-12T07:01:47.992Z"
         }
       ]
     },
