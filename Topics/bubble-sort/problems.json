@@ -4,7 +4,7 @@
     "slug": "bubble-sort",
     "name": "Bubble Sort"
   },
-  "updatedAt": "2026-08-12T07:01:31.597Z",
+  "updatedAt": "2026-08-12T07:05:41.792Z",
   "problems": [
     {
       "frontendId": "1859",
@@ -22,7 +22,7 @@
           "filename": "1859-sorting-the-sentence.java",
           "path": "1859-sorting-the-sentence/1859-sorting-the-sentence.java",
           "sha": "698b642a5cb009e5b8b606a7178e55c838ba7764",
-          "lastSyncedAt": "2026-08-12T07:01:31.597Z"
+          "lastSyncedAt": "2026-08-12T07:05:41.792Z"
         }
       ]
     }
