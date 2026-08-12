@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-12T08:35:41.044Z",
+  "updatedAt": "2026-08-12T08:39:18.709Z",
   "problems": [
     {
       "frontendId": "2744",
@@ -22,7 +22,7 @@
           "filename": "2744-find-maximum-number-of-string-pairs.java",
           "path": "2744-find-maximum-number-of-string-pairs/2744-find-maximum-number-of-string-pairs.java",
           "sha": "ff4507cdd787b2938023c8c2f1291df5e9416616",
-          "lastSyncedAt": "2026-08-12T08:35:41.044Z"
+          "lastSyncedAt": "2026-08-12T08:39:18.709Z"
         }
       ]
     }
