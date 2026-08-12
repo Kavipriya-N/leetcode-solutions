@@ -1,0 +1,16 @@
+// Last updated: 12/08/2026, 16:22:43
+class Solution {
+    public int subtractProductAndSum(int n) {
+        int sum=0;
+        int pro=1;
+        while(n>0)
+        {
+            int rem=n%10;
+            sum+=rem;
+            pro*=rem;
+            n/=10;
+        }
+         int res=pro-sum;
+         return res;
+    }
+}
