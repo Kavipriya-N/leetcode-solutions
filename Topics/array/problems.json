@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T07:02:29.346Z",
+  "updatedAt": "2026-08-12T07:03:14.328Z",
   "problems": [
     {
       "frontendId": "26",
@@ -142,7 +142,7 @@
           "filename": "1232-check-if-it-is-a-straight-line.java",
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
           "sha": "ab5830ce2d85d80e746eaa59b80cf6c5ef519d2f",
-          "lastSyncedAt": "2026-08-12T06:54:01.959Z"
+          "lastSyncedAt": "2026-08-12T07:03:14.328Z"
         }
       ]
     },
