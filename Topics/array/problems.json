@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T08:45:34.066Z",
+  "updatedAt": "2026-08-12T08:45:44.535Z",
   "problems": [
     {
       "frontendId": "26",
@@ -162,7 +162,7 @@
           "filename": "1480-running-sum-of-1d-array.java",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "49de773fc639c9a9813efe92172a96abee4c5201",
-          "lastSyncedAt": "2026-08-12T08:38:33.394Z"
+          "lastSyncedAt": "2026-08-12T08:45:44.535Z"
         }
       ]
     },
