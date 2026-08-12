@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T06:15:10.575Z",
+  "updatedAt": "2026-08-12T06:15:22.728Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "3fe7f442a615811eb8b71d3dc70f89d1c325914d",
           "lastSyncedAt": "2026-08-12T06:14:33.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "problemName": "0038-count-and-say",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+      "folderPath": "0038-count-and-say/",
+      "readmePath": "0038-count-and-say/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0038-count-and-say.java",
+          "path": "0038-count-and-say/0038-count-and-say.java",
+          "sha": "81fceaf36332936e408f8ce1f51bc6d12ec7856f",
+          "lastSyncedAt": "2026-08-12T06:15:22.728Z"
         }
       ]
     },
