@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-12T06:13:13.304Z",
+  "updatedAt": "2026-08-12T06:14:51.040Z",
   "problems": [
     {
       "frontendId": "215",
@@ -23,6 +23,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "b086663ca915b26d8ebb567c98bd88d0f61f00d6",
           "lastSyncedAt": "2026-08-12T06:13:13.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1859",
+      "title": "Sorting the Sentence",
+      "slug": "sorting-the-sentence",
+      "problemName": "1859-sorting-the-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sorting-the-sentence/",
+      "folderPath": "1859-sorting-the-sentence/",
+      "readmePath": "1859-sorting-the-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1859-sorting-the-sentence.java",
+          "path": "1859-sorting-the-sentence/1859-sorting-the-sentence.java",
+          "sha": "698b642a5cb009e5b8b606a7178e55c838ba7764",
+          "lastSyncedAt": "2026-08-12T06:14:51.040Z"
         }
       ]
     }
