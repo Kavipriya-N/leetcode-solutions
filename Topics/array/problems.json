@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T06:15:35.398Z",
+  "updatedAt": "2026-08-12T06:15:59.225Z",
   "problems": [
     {
       "frontendId": "41",
@@ -83,6 +83,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "01559f12fa0ebb79e68546d980ef0ccf95e27067",
           "lastSyncedAt": "2026-08-12T06:15:35.398Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "1232-check-if-it-is-a-straight-line/",
+      "readmePath": "1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1232-check-if-it-is-a-straight-line.java",
+          "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
+          "sha": "ab5830ce2d85d80e746eaa59b80cf6c5ef519d2f",
+          "lastSyncedAt": "2026-08-12T06:15:59.225Z"
         }
       ]
     },
