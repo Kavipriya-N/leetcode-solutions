@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-12T07:05:20.242Z",
+  "updatedAt": "2026-08-12T07:08:10.119Z",
   "problems": [
     {
       "frontendId": "238",
@@ -42,7 +42,7 @@
           "filename": "1480-running-sum-of-1d-array.java",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
           "sha": "49de773fc639c9a9813efe92172a96abee4c5201",
-          "lastSyncedAt": "2026-08-12T07:05:01.608Z"
+          "lastSyncedAt": "2026-08-12T07:08:10.119Z"
         }
       ]
     }
