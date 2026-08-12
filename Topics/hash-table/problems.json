@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T08:35:23.029Z",
+  "updatedAt": "2026-08-12T08:35:41.044Z",
   "problems": [
     {
       "frontendId": "3",
@@ -82,7 +82,7 @@
           "filename": "2744-find-maximum-number-of-string-pairs.java",
           "path": "2744-find-maximum-number-of-string-pairs/2744-find-maximum-number-of-string-pairs.java",
           "sha": "ff4507cdd787b2938023c8c2f1291df5e9416616",
-          "lastSyncedAt": "2026-08-12T08:32:57.120Z"
+          "lastSyncedAt": "2026-08-12T08:35:41.044Z"
         }
       ]
     }
